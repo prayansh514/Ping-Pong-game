@@ -69,11 +69,6 @@ ping-pong/
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots or GIFs of your game here if possible)*
-
----
 
 ## 📌 Notes
 
@@ -84,17 +79,6 @@ ping-pong/
   - Game timer or round limits
 
 ---
-
-## 📚 Learnings
-
-This project is a great introduction to:
-- Python OOP (Object-Oriented Programming)
-- Using the `turtle` graphics module
-- Handling keyboard events
-- Game loops and collision detection
-
----
-
 ## 🙌 Credits
 
 Developed with ❤️ using Python and Turtle graphics.
